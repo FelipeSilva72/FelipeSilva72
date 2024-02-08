@@ -1,4 +1,4 @@
-My name's Felipe but you can call me "Felipe", I'm 14 years old, a programming student, and I live in Brazil.
+My name's Felipe but you can call me "Felipe", I'm 12 years old, a programming student, and I live in Brazil.
 
 ## 🔨 Language and Tools
 
