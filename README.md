@@ -2,4 +2,4 @@ My name is Felipe, I'm 15 years old, I'm a programming student and I live in Bra
 
 ## 🔨 Language and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,html,css,nodejs,discord)](https://skillicons.dev)
